@@ -11,5 +11,5 @@
 
 |   | No. Alumno | Apellidos | Nombre | Usuario Github | % participación |
 | --- | --- | --- | --- | --- | --- |
-|  1 |         |            |   |         |  |
+|  1 |201910325 | Vasquez Chirito|Christoffer |             
 |  2 |         |            |   |         |  |
