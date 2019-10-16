@@ -11,5 +11,5 @@
 
 |   | No. Alumno | Apellidos | Nombre | Usuario Github | % participación |
 | --- | --- | --- | --- | --- | --- |
-|  1 |201910325 | Vasquez Chirito|Christoffer |             
-|  2 |         |            |   |         |  |
+|  1 |201910325 | Vasquez Chirito|Christoffer | ec1-ChristofferVCh|80%          
+|  2 | 2019102  |Llerena  Llosa| Lucia | ec1-luciallerena|80%
